@@ -1,0 +1,122 @@
+[
+  {
+    "code": "P0100",
+    "related_code": "P0101",
+    "description": "Mass or Volume Air Flow Circuit Malfunction",
+    "related_description": "Mass or Volume Air Flow Circuit Range/Performance Problem"
+  },
+  {
+    "code": "P0100",
+    "related_code": "P0102",
+    "description": "Mass or Volume Air Flow Circuit Malfunction",
+    "related_description": "Mass or Volume Air Flow Circuit Low Input"
+  },
+  {
+    "code": "B1200",
+    "related_code": "B1201",
+    "description": "Climate Control System Fault",
+    "related_description": "Climate Control System Overload"
+  },
+  {
+    "code": "B1200",
+    "related_code": "B1202",
+    "description": "Climate Control System Fault",
+    "related_description": "Climate Control System Underload"
+  },
+  {
+    "code": "C0300",
+    "related_code": "C0301",
+    "description": "Transfer Case Control System Malfunction",
+    "related_description": "Transfer Case Motor Circuit Low"
+  },
+  {
+    "code": "C0300",
+    "related_code": "C0302",
+    "description": "Transfer Case Control System Malfunction",
+    "related_description": "Transfer Case Motor Circuit High"
+  },
+  {
+    "code": "U0100",
+    "related_code": "U0101",
+    "description": "Lost Communication with ECM/PCM",
+    "related_description": "Lost Communication with TCM"
+  },
+  {
+    "code": "U0100",
+    "related_code": "U0102",
+    "description": "Lost Communication with ECM/PCM",
+    "related_description": "Lost Communication with Transfer Case Control Module"
+  },
+  {
+    "code": "P0300",
+    "related_code": "P0301",
+    "description": "Random/Multiple Cylinder Misfire Detected",
+    "related_description": "Cylinder 1 Misfire Detected"
+  },
+  {
+    "code": "P0300",
+    "related_code": "P0302",
+    "description": "Random/Multiple Cylinder Misfire Detected",
+    "related_description": "Cylinder 2 Misfire Detected"
+  },
+  {
+    "code": "B2100",
+    "related_code": "B2101",
+    "description": "Door Lock Circuit Fault",
+    "related_description": "Driver Door Lock Circuit Malfunction"
+  },
+  {
+    "code": "B2100",
+    "related_code": "B2102",
+    "description": "Door Lock Circuit Fault",
+    "related_description": "Passenger Door Lock Circuit Malfunction"
+  },
+  {
+    "code": "C1400",
+    "related_code": "C1401",
+    "description": "Brake System Fault",
+    "related_description": "ABS Sensor Circuit Low"
+  },
+  {
+    "code": "C1400",
+    "related_code": "C1402",
+    "description": "Brake System Fault",
+    "related_description": "ABS Sensor Circuit High"
+  },
+  {
+    "code": "U0400",
+    "related_code": "U0401",
+    "description": "Invalid Data Received from ECM/PCM",
+    "related_description": "Invalid Data Received from TCM"
+  },
+  {
+    "code": "U0400",
+    "related_code": "U0402",
+    "description": "Invalid Data Received from ECM/PCM",
+    "related_description": "Invalid Data Received from Brake Control Module"
+  },
+  {
+    "code": "P0420",
+    "related_code": "P0430",
+    "description": "Catalyst System Efficiency Below Threshold (Bank 1)",
+    "related_description": "Catalyst System Efficiency Below Threshold (Bank 2)"
+  },
+  {
+    "code": "B1342",
+    "related_code": "B1343",
+    "description": "Electronic Control Unit Fault",
+    "related_description": "Electronic Control Unit Overcurrent"
+  },
+  {
+    "code": "C1500",
+    "related_code": "C1501",
+    "description": "Wheel Speed Sensor Malfunction",
+    "related_description": "Wheel Speed Sensor Circuit Low"
+  },
+  {
+    "code": "U1000",
+    "related_code": "U1001",
+    "description": "Class 2 Communication Malfunction",
+    "related_description": "Class 2 Communication Short to Ground"
+  }
+]
